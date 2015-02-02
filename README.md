@@ -1,2 +1,10 @@
 # reload_reddit
-A page to automatically reload the reddit front page after a user defined amount of time.
+David Scholten
+
+Log/Version:
+
+0.1
+2015-02-01
+First design. This page will load 'Reddit.com'.
+Added a dropdown menu to select an amount of time before reloading itself.
+Menu reloads page on change.
